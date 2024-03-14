@@ -1,0 +1,10 @@
+#form_div{
+  background-color: aqua;
+  display: flex;
+  height: max-content;
+  width: max-content;
+}
+
+#form{
+  margin-top: 10px;
+}
